@@ -1,0 +1,16 @@
+#container{
+	margin: 0 auto;
+	width: 720px;
+	height: 720px;
+	border: 1px solid black;
+	font-size: 0;
+}
+
+.highlight{
+	background-color: black;
+}
+
+.square{
+	margin: 0;
+	display: inline-block;
+}
